@@ -4,6 +4,12 @@
 
 🌐 [Visit my personal website](https://mokaiko.vercel.app/) 👈🏻
 
+## 🧭 About Me
+
+Blockchain developer focused on Ethereum and smart contract engineering.  
+Currently building NFT, DeFi, and on-chain SVG projects using Solidity + Foundry.  
+Interested in Layer2 scaling, privacy-preserving technologies, and blockchain security.
+
 ---
 
 ## 🛠 Skills & Tech Stack
@@ -16,12 +22,6 @@
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=windows&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-![mokaiko's GitHub chart](https://ghchart.rshah.org/102E97/mokaiko)
-
 
 ---
 
