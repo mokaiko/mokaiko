@@ -20,8 +20,8 @@
 ---
 
 ## 📊 GitHub Stats
+![mokaiko's GitHub chart](https://ghchart.rshah.org/102E97/mokaiko)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mokaiko&layout=compact&theme=radical)
 
 ---
 
